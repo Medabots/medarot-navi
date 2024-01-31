@@ -1,0 +1,7 @@
+*.gba
+*.sav
+.*/
+build/
+
+# OSX
+.DS_Store
